@@ -1,9 +1,10 @@
 # Tahu Bulat Idle Clicker Game
 
+Game yang menggunakan konsep clicker, dimana pengguna harus mengklik objek untuk mendapatkan poin atau uang. Pengguna kemudian dapat menggunakan uang tersebut untuk membeli upgrade agar dapat menghasilkan uang lebih banyak.
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5f67aa5c-2c8d-4908-90a7-76d9fa8363ee" />
 
 ## Kelompok 1 Tugas UTS Pengenalan Teknologi Internet (PTI) Lab
-==========
 
 ## Anggota Kelompok :
 =========
