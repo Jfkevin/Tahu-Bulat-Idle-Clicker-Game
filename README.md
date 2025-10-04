@@ -1,5 +1,6 @@
 # Tahu Bulat Idle Clicker Game
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5f67aa5c-2c8d-4908-90a7-76d9fa8363ee" />
 
 ## Kelompok 1 Tugas UTS Pengenalan Teknologi Internet (PTI) Lab
 ==========
