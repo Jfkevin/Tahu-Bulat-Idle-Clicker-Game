@@ -1,7 +1,10 @@
-Kelompok 1
+# Tahu Bulat Idle Clicker Game
+
+
+# Kelompok 1 Tugas UTS Pengenalan Teknologi Internet (PTI) Lab
 ==========
 
-Anggota :
+# Anggota Kelompok :
 =========
 
 1. 00000082420 | Marcellus Eugene Kaparang
@@ -9,7 +12,7 @@ Anggota :
 3. 00000081083 | Muhammad Fikri Rouzan Ash Shidik
 4. 00000081783 | Farrelius Kevin
 
-Aturan Permainan ( Gameplay ) :
+# Aturan Permainan ( Gameplay ) :
 ===============================
 
 1. Untuk menjual produk tahu bulat, pemain dapat mengclick gambar tahu bulat yang berada ditengah untuk mendapatkan uang
