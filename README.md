@@ -1,27 +1,80 @@
-# Tahu Bulat Idle Clicker Game
+# 🧆 Tahu Bulat Idle Clicker  
+Sebuah permainan berbasis web yang mengusung konsep **Idle Clicker Game**, di mana pemain dapat menghasilkan uang dengan cara mengklik objek *Tahu Bulat*! 💰  
+Game ini dibangun menggunakan **HTML**, **CSS**, **JavaScript**, dan **Bootstrap**, serta dikembangkan melalui **Visual Studio Code (VSCode)**.
 
-Game yang menggunakan konsep clicker, dimana pengguna harus mengklik objek untuk mendapatkan poin atau uang. Pengguna kemudian dapat menggunakan uang tersebut untuk membeli upgrade agar dapat menghasilkan uang lebih banyak.
+---
+
+## 🖼️ Dokumentasi Project
+Tampilan antarmuka utama permainan:  
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5f67aa5c-2c8d-4908-90a7-76d9fa8363ee" />
 
-## Kelompok 1 Tugas UTS Pengenalan Teknologi Internet (PTI) Lab
+---
 
-## Anggota Kelompok :
-=========
+## 🧩 Penjelasan Project
 
-1. 00000082420 | Marcellus Eugene Kaparang
-2. 00000081070 | Merhandes Gunawan
-3. 00000081083 | Muhammad Fikri Rouzan Ash Shidik
-4. 00000081783 | Farrelius Kevin
+### 🎯 Deskripsi Umum
+**Tahu Bulat Idle Clicker** merupakan game sederhana berbasis web dengan mekanisme **clicker**:  
+- Pemain mengklik objek utama (ikon *Tahu Bulat*) untuk mendapatkan uang.  
+- Uang yang terkumpul dapat digunakan untuk **membeli upgrade** dan **auto-clickers** agar penghasilan bertambah secara otomatis tanpa perlu klik manual.  
+- Sistem permainan akan menampilkan **peringatan** apabila pemain mencoba membeli item tanpa cukup uang.  
 
-## Aturan Permainan ( Gameplay ) :
-===============================
+Game ini mengajarkan konsep dasar **DOM manipulation**, **event handling**, dan **state management** dalam JavaScript, dengan dukungan **Bootstrap** untuk tampilan antarmuka yang responsif dan modern.
 
-1. Untuk menjual produk tahu bulat, pemain dapat mengclick gambar tahu bulat yang berada ditengah untuk mendapatkan uang
-2. Pemain dapat mengupgrade dagangan tahu bulat sehingga uang yang didapatkan ketika pemain mengclick gambar tahu bulat menjadi lebih banyak
-3. Ketika pemain telah membeli fitur auto click maka pemain dapat secara otomatis menjual dagangan tahu bulat
-4. Apabila pemain membeli lagi fitur auto click maka kecepatan tiap clicknya akan bertambah lebih cepat
-5. Fitur membuka cabang juga dapat menambah uang yang didapatkan ketika pemain mengclick gambar tahu bulat
-6. Perlu diperhatikan apabila pemain melakukan refresh atau keluar dari halaman tersebut maka semua progress yang telah dilakukan pemain akan tereset dan akan dimulai dari awal lagi
-7. Jika uang pemain tidak mencukupi maka fitur upgrage dagangan dan bisnis tahu bulat akan gagal
-8. Selama auto click berjalan, pemain tetap dapat mengclick tahu bulat secara manual untuk mendapatkan uang
+---
+
+### 🧭 Struktur Navigasi
+1. **Home Page**  
+   - Menampilkan navigasi utama (Navigation Bar).  
+   - Terdapat tombol menuju halaman **Main Game** dan **About Us**.
+2. **Main Game**  
+   - Area permainan utama dengan objek *Tahu* yang dapat diklik.  
+   - Tampilan jumlah uang yang dimiliki pemain.  
+   - Tombol-tombol upgrade untuk meningkatkan penghasilan.  
+3. **About Us**  
+   - Menampilkan informasi singkat mengenai tim pengembang dan deskripsi game.
+
+---
+
+### 🕹️ Fitur Utama
+| Fitur | Deskripsi |
+|-------|------------|
+| 💸 **Clicker System** | Setiap kali objek *Tahu* diklik, pemain akan mendapatkan sejumlah uang. |
+| ⚙️ **Auto Clicker** | Upgrade otomatis yang menghasilkan uang tanpa harus mengklik secara manual. |
+| 🛒 **Shop / Upgrade System** | Pemain dapat membeli peningkatan untuk mempercepat penghasilan. |
+| ⚠️ **Warning System** | Pesan peringatan muncul jika pemain tidak memiliki cukup uang saat membeli item. |
+| 🧭 **Navigasi Halaman** | Home, Main Game, dan About Us melalui Navigation Bar. |
+| 🎨 **Bootstrap UI** | Desain antarmuka responsif dan rapi menggunakan Bootstrap. |
+
+---
+
+## 🛠️ Teknologi & Tools
+
+| Kategori | Teknologi / Tools |
+|-----------|------------------|
+| 💻 **Bahasa Pemrograman** | HTML, CSS, JavaScript |
+| 🎨 **Framework CSS** | Bootstrap |
+| 🧰 **Editor** | Visual Studio Code (VSCode) |
+| 🧩 **Library / Framework** | Native JavaScript (tanpa framework frontend tambahan) |
+| ☁️ **Version Control** | Git & GitHub |
+
+---
+
+## 👨‍💻 Tim Pengembang
+
+| No | Nama Lengkap | NIM |
+|----|---------------|-----|
+| 1 | **Marcellus Eugene Kaparang** | 00000082420 |
+| 2 | **Merhandes Gunawan** | 00000081070 |
+| 3 | **Muhammad Fikri Rouzan Ash Shidik** | 00000081083 |
+| 4 | **Farrelius Kevin** | 00000081783 |
+
+---
+
+## 📚 Mata Kuliah
+**Pengenalan Teknologi Internet (UTS Lab)** – `IF231` – *Semester 2*  
+**Program Studi Informatika**  
+**Fakultas Teknik dan Informatika**  
+🏫 *Universitas Multimedia Nusantara (UMN)*
+
+---
